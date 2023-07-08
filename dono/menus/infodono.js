@@ -4,19 +4,20 @@ const infodono = (prefix, numerodn, NomeDoBot, sender) => {
 //${numerodn} nem ${NomeDoBot} nem ${prefix} só se quiser apagar completo, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa.
 
 return`
+🍊𝐀𝐓𝐄𝐍𝐃𝐈𝐌𝐄𝐍𝐓𝐎🍊
 ╭───────────────┐
-├ INFORMAÇÕES DO DONO
+├ 🍎⃟༻INFORMAÇÕES DO mestre𑆵
 ├───────────────
-│ Solicitou o CMD: @${sender.split("@")[0]}
+│  🇧🇷⃟𒊹Solicitou o CMD: @${sender.split("@")[0]}
 ├───────────────┐
-│ Dono: wa.me/${numerodn} 
+│  🔱⃟𒊹Mestre: wa.me/${numerodn} 
 ╞───────────────┘
 ╰──────────┐
 ╭──────────┴─┐
-│ INFORMAÇÕES DO BOT
+│  🇧🇷⃟𒊹INFORMAÇÕES DO BOT𑆵
 ├────────────
-│Prefixo: ⩺ ${prefix}
-│Nome: ⩺ ${NomeDoBot} 
+│ 🇧🇷⃟𒊹Prefixo: ⩺ ${prefix}
+│ 🇧🇷⃟𒊹Nome: ⩺ ${NomeDoBot} 
 ╰─────────────╯
 `
 }
