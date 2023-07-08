@@ -1,8 +1,8 @@
 {
   "antipv2": false,
   "antipv3": false,
-  "menu_audio": false,
-  "verificado": false,
+  "menu_audio": true,
+  "verificado": true,
   "consoleoff": true,
   "antipv": false,
   "anticall": false,
